@@ -12,7 +12,8 @@ public class Player : MonoBehaviour {
 		if(Input.GetKeyDown(KeyCode.Space))
 		{
 			GameObject projectile = (GameObject)Instantiate(Projectile, ProjectileSpawnPosition.transform.position, Quaternion.identity);	
-			projectile.rigidbody.AddForce(transform.forward * 1000);
+			projectile.rigidbody.AddForce(Vector3.left * 1000);
+			Destroy(projectile, 10);
 		}
 	}
 }
