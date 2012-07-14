@@ -1,0 +1,8 @@
+D:\Projects\Github\Unity3dPlayground\MoonMania\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Projects\Github\Unity3dPlayground\MoonMania\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Projects\Github\Unity3dPlayground\MoonMania\Temp\bin\Debug\UnityEditor.dll
+D:\Projects\Github\Unity3dPlayground\MoonMania\Temp\bin\Debug\UnityEngine.dll
+D:\Projects\Github\Unity3dPlayground\MoonMania\Temp\bin\Debug\nunit.framework.dll
+D:\Projects\Github\Unity3dPlayground\MoonMania\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Github\Unity3dPlayground\MoonMania\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Projects\Github\Unity3dPlayground\MoonMania\obj\Debug\Assembly-CSharp-firstpass.pdb

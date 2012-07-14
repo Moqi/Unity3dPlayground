@@ -45,6 +45,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraFollow2D.cs" />
+     <Compile Include="Assets\Scripts\JsonSample.cs" />
+     <Compile Include="Assets\Scripts\Libs\JSONObject.cs" />
      <Compile Include="Assets\Scripts\ShipSteering.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
