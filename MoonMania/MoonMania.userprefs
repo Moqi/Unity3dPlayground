@@ -1,9 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShipSteering.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BigBall.cs">
     <Files>
-      <File FileName="Assets/Scripts/ShipSteering.cs" Line="25" Column="3" />
-      <File FileName="Assets/Scripts/CameraFollow2D.cs" Line="7" Column="30" />
+      <File FileName="Assets\Scripts\BigBall.cs" Line="9" Column="41" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

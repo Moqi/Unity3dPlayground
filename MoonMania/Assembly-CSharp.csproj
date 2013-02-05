@@ -18,7 +18,7 @@
 	<DebugType>full</DebugType>
 	<Optimize>false</Optimize>
 	<OutputPath>Temp\bin\Debug\</OutputPath>
-	<DefineConstants>DEBUG;TRACE;UNITY_3_5_3;UNITY_3_5;UNITY_EDITOR;ENABLE_PROFILER;UNITY_FLASH;ENABLE_GENERICS</DefineConstants>
+	<DefineConstants>DEBUG;TRACE;UNITY_NACL;WEBPLUG;ENABLE_IMAGEEFFECTS;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_PHYSICS;ENABLE_TERRAIN;ENABLE_GENERICS;ENABLE_CLOTH;ENABLE_MOVIES;UNITY_PEPPER;ENABLE_AUDIO;ENABLE_WWW;ENABLE_SHADOWS;ENABLE_DUCK_TYPING;UNITY_4_0_1;UNITY_4_0;ENABLE_PROFILER;UNITY_EDITOR;UNITY_WEBPLAYER</DefineConstants>
 	<ErrorReport>prompt</ErrorReport>
 	<WarningLevel>4</WarningLevel>
 	<NoWarn>0169</NoWarn>
@@ -44,9 +44,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\BigBall.cs" />
      <Compile Include="Assets\Scripts\CameraFollow2D.cs" />
-     <Compile Include="Assets\Scripts\JsonSample.cs" />
-     <Compile Include="Assets\Scripts\Libs\JSONObject.cs" />
      <Compile Include="Assets\Scripts\ShipSteering.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
