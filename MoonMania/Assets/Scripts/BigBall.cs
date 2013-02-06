@@ -5,6 +5,10 @@ public class BigBall : MonoBehaviour {
 
 	
  	void OnCollisionEnter(Collision collision) {
-		gameObject.GetComponent<AudioSource>().Play();
+		if(collision.gameObject.tag == "Projectile")
+		{
+			gameObject.GetComponent<AudioSource>().Play();
+			Destroy(collision.gameObject);
+		}
     }
 }
